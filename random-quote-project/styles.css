@@ -1,0 +1,22 @@
+.title {
+  font-family: Raleway;
+}
+
+.jumbotron {
+  background-color: #d6d6c2;
+  width: 50%;
+  margin: 20px auto;
+}
+
+#buttons {
+  text-align: center;
+}
+
+.fa-twitter {
+  font-size: 15px;
+}
+
+.footer {
+  font-family: Raleway;
+  margin-top: 10px;
+}
