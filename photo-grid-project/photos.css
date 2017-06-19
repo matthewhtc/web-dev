@@ -1,0 +1,22 @@
+img {
+	width: 30%;
+	float: left;
+	/* basically you need to do some math.
+	so because we have each photo, with 3 on each line, taking up 30%
+	of the body, you have 90%, and 10% left. now you need 2 margins 
+	per photo, so 6. so 10/6 = 1.66% for margins to make things evenly
+	spaced out!
+	*/
+	margin: 1.66%;	
+}
+
+p {
+	font-family: Raleway; 
+	margin-left: 1.66%;
+	font-size: 23px;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 2px solid #f1f1f1;
+	width: 30%;
+	padding-bottom: 20px;
+}
