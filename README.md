@@ -4,12 +4,13 @@ Hello, and welcome to my web development projects! My project ideas have come fr
 
 Below, you will find a preview for the projects in the repo. 
 
-- [Blog](https://htmlpreview.github.io/?https://github.com/matthewhtc/web-dev/blob/master/blog-project/blog.html)
-- [Colour Game](https://htmlpreview.github.io/?https://github.com/matthewhtc/web-dev/blob/master/color-game/color-game.html)
-- [Photo Grid](https://htmlpreview.github.io/?https://github.com/matthewhtc/web-dev/blob/master/photo-grid-project/photoGrid.html)
-- [Pomodoro Clock](https://htmlpreview.github.io/?https://github.com/matthewhtc/web-dev/blob/master/pomodoro-project/tomato.html)
-- [Random Sports Quote Generator](https://htmlpreview.github.io/?https://github.com/matthewhtc/web-dev/blob/master/random-quote-project/index.html)
-- [Startup Page](https://htmlpreview.github.io/?https://github.com/matthewhtc/web-dev/blob/master/startup-landing-project/startup.html)
-- [Tribute Page](https://htmlpreview.github.io/?https://github.com/matthewhtc/web-dev/blob/master/tribute-page-project/tribute.html)
+- [Blog](https://matthewhtc.github.io/projects/blog-project/blog.html)
+- [Colour Game](https://matthewhtc.github.io/projects/color-game/color-game.html)
+- [Photo Grid](https://matthewhtc.github.io/projects/photo-grid-project/photoGrid.html)
+- [Pomodoro Clock](https://matthewhtc.github.io/projects/pomodoro-project/tomato.html)
+- [Random Sports Quote Generator](https://matthewhtc.github.io/projects/random-quote-project/index.html)
+- [Startup Page](https://matthewhtc.github.io/projects/startup-landing-project/startup.html)
+- [Tic Tac Toe Game](https://matthewhtc.github.io/projects/tictactoe/board.html)
+- [Tribute Page](https://matthewhtc.github.io/projects/tribute-page-project/tribute.html)
 
 Enjoy!
