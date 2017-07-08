@@ -1,0 +1,232 @@
+body {
+    background-color: rgb(238,238,238);
+    font-family: Fjalla One;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li.yellow.row, li.black.row {
+	transition: all 0.25s ease;
+}
+li.yellow.row:hover {
+	background: #fc0;
+	transform: scale(1.05);
+
+}
+
+li.black.row:hover {
+	background: #3d3d3d;
+	transform: scale(1.05);
+	color: rgb(238,238,238);
+}
+
+span {
+    padding-right: 50px;
+}
+
+img {
+      margin-right: 5px;
+    height: 18px;
+    width: 18px;
+    border-radius: 100%;
+}
+
+.black, .yellow {
+     box-shadow: 1px 1px 2px rgba(0,0,0,0.4);
+
+}
+
+.black {
+    border-left: 5px solid #3d3d3d;
+    background-color: rgb(238,238,238);
+    color: #3d3d3d;
+}
+
+
+
+.yellow a, .black a {
+    color: #007acc;
+}
+
+.black a:visited, .yellow a:visited {
+    text-decoration: none;
+}
+.yellow {
+    border-left: 5px solid #fc0;
+    background-color: rgb(238,238,238);
+  
+}
+
+.black, .yellow, #title { 
+    margin: 5px auto;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    height: 70%;
+    width: 70%;
+}
+
+.left, .right {
+    display: inline-block;
+    padding-left: 10px;
+}
+
+.left {
+    float: left;
+    height: 16px;
+    line-height: 16px;
+    padding-right: 40px;
+}
+
+.right {
+    width: 20em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    float: right;
+    padding-right: 10px;
+  
+}
+
+#title {
+	color: #3d3d3d;
+	margin-top: 30px;
+    padding-bottom: 20px;
+    background-color: #e3e3e3;
+  
+}
+
+
+
+
+/* responsive css */ 
+@media screen and (max-width: 503px) {
+	.left {
+        height: 16px;
+        line-height: 16px;
+        font-size: 16px;
+  	}
+
+    .right {
+        font-size: 16px;
+        width: 10em;
+        float: left;
+        display: block;
+        padding-left: 10px;
+	}
+  
+}
+
+@media screen and (min-width: 504px) and (max-width: 550px) {
+    .left {
+      height: 16px;
+      line-height: 16px;
+      font-size: 16px;
+    }
+  
+    .right {
+      width: 4.5em;
+      font-size: 16px;
+      text-align: left;
+    }
+}
+
+@media screen and (min-width: 551px) and (max-width: 650px) {
+    .left {
+      height: 16px;
+      line-height: 16px;
+      font-size: 16px;
+    }
+  
+    .right {
+      width: 7em;
+      font-size: 16px;
+      text-align: left;
+    }
+}
+
+@media screen and (min-width: 651px) and (max-width: 850px) {
+    .left {
+      height: 16px;
+      line-height: 16px;
+      font-size: 16px;
+    }
+  
+    .right {
+      width: 9em;
+      font-size: 16px;
+      text-align: left;
+    }
+}
+
+@media screen and (min-width: 651px) and (max-width: 850px) {
+    .left {
+      height: 16px;
+      line-height: 16px;
+      font-size: 16px;
+    }
+  
+    .right {
+      width: 9em;
+      font-size: 16px;
+      text-align: left;
+    }
+}
+
+@media screen and (min-width: 651px) and (max-width: 850px) {
+    .left {
+      height: 16px;
+      line-height: 16px;
+      font-size: 16px;
+    }
+  
+    .right {
+      width: 9em;
+      font-size: 16px;
+      text-align: left;
+    }
+}
+
+@media screen and (min-width: 651px) and (max-width: 850px) {
+    .left {
+      height: 16px;
+      line-height: 16px;
+      font-size: 16px;
+    }
+  
+    .right {  
+      width: 9em;
+      font-size: 16px;
+      text-align: left;
+    }
+}
+
+@media screen and (min-width: 851px) and (max-width: 1000px) {
+    .left {
+      height: 16px;
+      line-height: 16px;
+      font-size: 16px;
+    }
+  
+    .right {
+      width: 13em;
+      font-size: 16px;
+      text-align: left;
+    }
+}
+
+@media screen and (min-width: 1001px) and (max-width: 1150px) {
+    .left {
+      height: 16px;
+      line-height: 16px;
+      font-size: 16px;
+    }
+  
+    .right {
+      width: 20em;
+      font-size: 16px;
+      text-align: left;
+    }
+}

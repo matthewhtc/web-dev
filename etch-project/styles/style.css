@@ -1,0 +1,59 @@
+h1 {
+	text-align: center;
+	font-family:Scope One;
+}
+
+#buttons {
+	width: 600px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#clear {
+	position: relative;
+}
+
+#trail {
+	position: relative;
+}
+
+.button {
+    background-color: #e45151;
+    border: none;
+    color: black;
+    padding: 8px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: Scope One;
+    margin: 20px 2px;
+    cursor: pointer;
+}
+
+.box {
+	height: 10px;
+	width: 10px;
+	border: none;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	background-color: #e45151;
+	
+
+}
+
+.grid {
+	margin:  10px auto;
+	text-align: center;
+	line-height: 0;
+	width: 960px;
+	clear: both;
+}
+
+/*color for hovering effect*/
+.colour {
+	color: black;
+	background-color: black;
+}
+
